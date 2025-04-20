@@ -40,3 +40,5 @@ El procés es repeteix fins que es trobi una solució vàlida o es determini que
 
 
 
+
+
